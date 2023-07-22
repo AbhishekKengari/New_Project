@@ -1,0 +1,31 @@
+.box {
+    height:500px;
+    width: 500px;
+    margin:80px;
+    border: 6px solid rgb(0, 0, 0);
+    padding:30px;
+    border-radius: 20px;
+    box-shadow: 9px 9px 9px 0  grey ;
+  
+}
+img{
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+h1{
+    margin: 6px;
+    font-size:45px;
+}
+p{
+    margin:15px 12px 12px 6px;
+    font-size:35px;
+}
+button{
+    height: 50px;
+    width: 190px;
+    font-size:25px;
+    border-radius: 10px ;
+    box-shadow: 5px 5px 5px 0  grey ;
+}
